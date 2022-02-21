@@ -6,6 +6,8 @@
 
 - 👯 I’m looking to collaborate on **Web/Software Development Projects**
 
+- 🌱 Currently pursuing B.Tech in Computer Science & Engneering (2020-2024)
+
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/amarjeet-kumar-singh-2243011ba/](https://www.linkedin.com/in/amarjeet-kumar-singh-2243011ba/)
 
 - 📫 How to reach me **ak4348225@gmail.com**
