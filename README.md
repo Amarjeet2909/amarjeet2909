@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjeet2909&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeet2909" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development and working as an TCW Intern at GeeksforGeeks**
 
 - 👯 I’m looking to collaborate on **Web/Software Development Projects**
 
