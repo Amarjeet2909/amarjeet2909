@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Web Development and working as an TCW Intern at GeeksforGeeks**
 
-- 👯 I’m looking for **Software Development Engineering/ Web Development Internship opportunities**
+- 👯 I’m looking for **Software Development Engineering(SDE)/ Web Development Internship opportunities**
 
 - 🌱 Currently pursuing B.Tech in Computer Science & Engneering (2020-2024)
 
