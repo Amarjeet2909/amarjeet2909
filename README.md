@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **ak4348225@gmail.com** also check out **https://amarjeetsingh.bio.link/**
 
+![](https://komarev.com/ghpvc/?username=your-github-amarjeet2909)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amarjeet-kumar-singh-2243011ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amarjeet-kumar-singh-2243011ba/" height="30" width="40" /></a>
