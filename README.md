@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **ak4348225@gmail.com** also check out **https://amarjeetsingh.bio.link/**
 
-![](https://raw.githubusercontent.com/amarjeet2909/github-stats/master/generated/overview.svg)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amarjeet-kumar-singh-2243011ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amarjeet-kumar-singh-2243011ba/" height="30" width="40" /></a>
@@ -32,6 +30,3 @@
 ## &#x1f4c8; My Stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeet2909&" alt="amarjeet2909" /></p>
-
-![](https://raw.githubusercontent.com/amarjeet2909/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/amarjeet2909/github-stats/master/generated/languages.svg)
