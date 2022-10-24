@@ -8,7 +8,7 @@
 
 - 🌱 Currently pursuing B.Tech in Computer Science & Engneering (2020-2024)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/amarjeet-cse/](https://www.linkedin.com/in/amarjeet-cse/)
+- 👨‍💻 All of my projects are available here at my GitHub account
 
 - 📫 How to reach me **ak4348225@gmail.com**
 
