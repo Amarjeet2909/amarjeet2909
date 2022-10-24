@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ak4348225@gmail.com** also check out **https://amarjeetsingh.bio.link/**
 
-![](https://komarev.com/ghpvc/?username=your-github-amarjeet2909)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeet2909&" alt="amarjeet2909" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
