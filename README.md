@@ -30,3 +30,6 @@
 ## &#x1f4c8; My Stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeet2909&" alt="amarjeet2909" /></p>
+
+## 3. Contributors Badge
+![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
