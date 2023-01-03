@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Amarjeet Kumar Singh</h1>
+<h1 align="center">Hi 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjeet2909&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeet2909" /> </p>
 
-- 🌱 I’m currently learning **Web Development and working as an Intern at GeeksforGeeks**
+- 🌱 I’m currently learning **Web Development and worked as an Intern at GeeksforGeeks**
 
 - 👯 I’m looking for **Software Development Engineering(SDE)/ Web Development Internship opportunities**
 
