@@ -2,7 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjeet2909&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeet2909" /> </p>
 
-- 🌱 I’m currently learning **Web Development and worked as an Intern at GeeksforGeeks**
+- 🌱 I’m SWE Intern at **RecruitNXT and also previously worked as an Intern at GeeksforGeeks**
+
+- 🌱 I’m currently learning **Web Development and MERN Stack**
 
 - 👯 I’m looking for **Software Development Engineering(SDE)/ Web Development Internship opportunities**
 
