@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available here at my GitHub account
 
-- 📫 How to reach me **ak4348225@gmail.com** also check out **https://amarjeetsingh.bio.link/**
+- 📫 How to reach me **amarjeetsinghcse@gmail.com** also check out **https://amarjeetsingh.bio.link/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
