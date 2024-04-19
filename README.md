@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjeet2909&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeet2909" /> </p>
 
-- 🌱 I’m SWE Intern at **RecruitNXT and also previously worked as an Intern at GeeksforGeeks**
+- 🌱 I’m Currently an SDE Intern at Medicvisor and Previously an SWE Intern at **RecruitNXT and a Technical Intern at GeeksforGeeks**
 
 - 🌱 I’m currently learning **Web Development and MERN Stack**
 
 - 👯 I’m looking for **Software Development Engineering(SDE)/ Web Development Internship opportunities**
 
-- 🌱 Currently pursuing B.Tech in Computer Science & Engneering (2020-2024)
+- 🌱 Currently pursuing B.Tech in Computer Science & Engineering (2020-2024)
 
 - 👨‍💻 All of my projects are available here at my GitHub account
 
