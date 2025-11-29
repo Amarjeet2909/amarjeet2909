@@ -3,7 +3,7 @@
 
 <!-- Typing Intro -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Developer+@+HP+Inc.;Full-Stack+.NET+%7C+MERN+Developer;C%23+%7C+ASP.NET+Core+%7C+React+%7C+C++;Always+learning+new+technologies!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FFFFFF&center=true&vCenter=true&width=650&lines=Software+Developer+@+HP+Inc.;Full-Stack+.NET+Developer;MERN+Stack+Developer;Always+learning+new+technologies!">
 </h3>
 
 ---
@@ -22,13 +22,16 @@
 
 ## 🚀 About Me
 
-- 💼 Software Developer at **HP Inc.**  
-- 🌱 Learning and building in **Full-Stack .NET** + **MERN**  
-- 👯 Open to **Full-Time / Intern SDE roles** (Frontend / Backend / Full-Stack)  
-- 🧑‍💻 All my projects live here 👉 **GitHub**  
-- 🔗 Portfolio → **https://www.amarjeet.online**  
-- 🎓 B.Tech — **Computer Science & Engineering (2020–2024)**
-
+- 👨‍💻 Software Developer at **HP Inc.** (consultant via BoldTek)
+- 🔧 Working on **.NET-based Full Stack Project**, C# wrapper libraries, and native C++ integrations
+- 🌱 Actively learning and building in **Full-Stack .NET**, **ASP.NET Core**, **React**, **Node.js**, and **MERN**
+- 💻 Interested in scalable backend systems, real-time apps, and multi-layer architectures
+- 🧩 Solved **500+ DSA problems** across LeetCode & GFG
+- 💼 Open to **Full-Time SDE roles** (Full-Stack/ Backend/ Frontend)
+- 📂 All my projects are available here on **GitHub**
+- 🌐 Portfolio → **[https://www.amarjeet.site](https://amarjeet.site/)**
+- 🎓 B.Tech — **Computer Science & Engineering (2020–2024) from CITK**
+- 
 ---
 
 ## 🛠 Tech Stack
@@ -63,30 +66,6 @@
 ## 📊 GitHub Stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeet2909&" alt="amarjeet2909" /></p>
-
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amarjeet2909&theme=onedark&no-frame=true&margin-w=15" />
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amarjeet2909/Amarjeet2909/output/snake.svg" alt="Snake animation"/>
-</p>
-
----
-
-## 🔥 Top Projects  
-
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Amarjeet2909&repo=portfolio&theme=tokyonight&hide_border=true" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Amarjeet2909&repo=SOME_PROJECT&theme=tokyonight&hide_border=true" /></a>
-</p>
 
 ---
 
