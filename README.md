@@ -62,14 +62,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats-git-master-rstaa-rick.vercel.app/api?username=Amarjeet2909&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Amarjeet2909&theme=tokyonight&hide_border=true" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeet2909&" alt="amarjeet2909" /></p>
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats-git-master-rstaa-rick.vercel.app/api/top-langs/?username=Amarjeet2909&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" />
-</p>
 
 ---
 
