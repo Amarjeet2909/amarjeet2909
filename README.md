@@ -1,37 +1,77 @@
-<h1 align="center">Welcome to my GitHub Profile 👋</h1>
+<h1 align="center">Hi 👋, I'm Amarjeet Singh</h1>
+<h3 align="center">Software Developer @ HP Inc. | Full-Stack .NET & MERN Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjeet2909&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeet2909" /> </p>
-
-- 🌱 I’m Currently an SDE Intern at Medicvisor and Previously an SWE Intern at **RecruitNXT and a Technical Intern at GeeksforGeeks**
-
-- 🌱 I’m currently doing deep dive into  **Full Stack Web Development and MERN Stack**
-
-- 👯 I’m looking for a Full-Time/ Intern role as a **Software Development Engineering(Frontend/ backend/ Full-Stack)**
-
-- 🌱 Currently pursuing B.Tech in Computer Science & Engineering (2020-2024)
-
-- 👨‍💻 All of my projects are available here at my GitHub account
-
-- 📫 How to reach me **ak4348225@gmail.com** also check out **https://www.amarjeet.online/**
-
-<h3 align="left">Coding Profiles</h3>
-<p align="left">
-<a href="https://www.leetcode.com/amarjeet2909/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/amarjeet2909/" height="40" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/jeetamar__singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ak4348225/profile" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/ak4348225?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ak4348225?hr_r=1" height="40" width="40" /></a>
+<p align="center">
+  <a href="https://www.amarjeet.online" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:ak4348225@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EE4C2C?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/amarjeet-cse/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Amarjeet2909/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://github.com/Amarjeet2909" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/amarjeet-cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amarjeet-kumar-singh-2243011ba/" height="40" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100010980278342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010980278342" height="40" width="40" /></a>
-<a href="https://instagram.com/amarjeetsingh_____/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amarjeetsingh_____/?hl=en" height="40" width="40" /></a>
+---
+
+## 🚀 About Me
+
+- 👨‍💻 Software Developer at **HP Inc.** (Consultant via BoldTek)
+- 🌱 Deep-diving into **Full-Stack Web Development (ASP.NET Core, MERN, React, C#)**  
+- 💼 Open to Full-Time / Intern roles in  
+  **Software Development (Frontend / Backend / Full-Stack)**
+- 🎓 B.Tech in **Computer Science & Engineering (2020–2024)**
+- 🧾 All my work & projects live here on GitHub 👇
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`C#` · `C++` · `JavaScript` · `TypeScript` · `SQL`  
+
+**Frontend:**  
+`React.js` · `HTML5` · `CSS3` · `Bootstrap`  
+
+**Backend:**  
+`.NET 6/7/8` · `ASP.NET Core` · `Web API` · `Entity Framework Core` · `Node.js` · `Express.js`  
+
+**Databases:**  
+`MySQL` · `MongoDB`  
+
+**Tools & Cloud:**  
+`Azure DevOps` · `Git` · `GitHub` · `Postman` · `VS Code` · `Visual Studio`
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Amarjeet2909&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Amarjeet2909&theme=tokyonight&hide_border=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://blog.getbootstrap.com/assets/brand/bootstrap-logo-shadow@2x.png" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-thumbnail.png" alt="Express" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="Mongodb" width="50" height="50"/> </a></p>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarjeet2909&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-## &#x1f4c8; My Stats
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeet2909&" alt="amarjeet2909" /></p>
+## 🌐 Visit My Portfolio  
+👉 **https://www.amarjeet.online**
 
+---
+
+## 📬 Contact Me  
+📩 **ak4348225@gmail.com**
+
+---
+
+⭐ _If you like my work, consider giving a star to some of my repositories!_ ⭐
