@@ -11,7 +11,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.amarjeet.online"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.amarjeet.site"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="mailto:ak4348225@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/amarjeet-cse/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://leetcode.com/Amarjeet2909/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
@@ -24,7 +24,7 @@
 
 - 👨‍💻 Software Developer at **HP Inc.** (consultant via BoldTek)
 - 🔧 Working on **.NET-based Full Stack Project**, C# wrapper libraries, and native C++ integrations
-- 🌱 Actively learning and building in **Full-Stack .NET**, **ASP.NET Core**, **React**, **Node.js**, and **MERN**
+- 🌱 Actively learning and building in **Full-Stack .NET**, **ASP.NET Core**, **React/Angular**, **Node.js**, and **MERN**
 - 💻 Interested in scalable backend systems, real-time apps, and multi-layer architectures
 - 🧩 Solved **500+ DSA problems** across LeetCode & GFG
 - 💼 Open to **Full-Time SDE roles** (Full-Stack/ Backend/ Frontend)
@@ -44,6 +44,9 @@
 ### **Frontend**
 <p>
 <img src="https://skillicons.dev/icons?i=react,bootstrap" />
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,bootstrap" />
 </p>
 
 ### **Backend**
