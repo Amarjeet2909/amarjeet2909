@@ -43,9 +43,6 @@
 
 ### **Frontend**
 <p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap" />
-</p>
-<p>
 <img src="https://skillicons.dev/icons?i=react,angular,bootstrap" />
 </p>
 
